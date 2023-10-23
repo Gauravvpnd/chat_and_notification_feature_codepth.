@@ -43,6 +43,7 @@ function ChatApp() {
         <Chat room={room} />
       )}
     </AppWrapper>
+    
   );
 }
 
